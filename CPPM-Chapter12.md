@@ -158,7 +158,7 @@ The IMA is the Province of British Columbia's legislative framework for modern, 
 
 Ministries must:
 
-1.	Engage with the OCIO when designing or modifying an IT system or application to determine whether components already exist.
+1.	Engage with the OCIO when designing, modifying or procuring an IT system or application to determine whether components already exist.
 
 2.	Leverage existing common components when practicable.
 
@@ -197,15 +197,13 @@ Ministries must:
 
 In general, a common component:
   
-   a.	Exists as software;
+   a.	Exists as software that provides a specific service;
   
    b.	Can be used as a building block by other applications to deliver digital services; 
   
    c.	Is platform agnostic (i.e.: can be consumed by any platform);
   
-   d.	Provides narrow functionality; and
-  
-   e.	Can be leveraged by many different applications.
+   d.	Can be leveraged by many different applications.
 
 ### **Data:**
 
@@ -221,7 +219,7 @@ An individual working for, or on behalf of, a ministry, agency, board or commiss
 
 ### **Enterprise architecture:**
 
-Conceptual blueprint enabling efficient structure and use of IT across government as a whole for effective achievement of business outcomes. Enterprise architecture includes common components.
+Conceptual blueprint demonstrating optimal use of IT across government, as a whole, for effective achievement of business outcomes. Enterprise architecture leverages common components.
 
 ### **Enterprise design:**
 
